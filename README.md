@@ -5,6 +5,8 @@ Esse projeto foi feito utilizando a API ViaCEP e com a ajuda do Json Schema para
 
 O projeto pode ser acessado, caso rode em sua máquina pelo link "localhost:8080/swagger-ui.html".
 
+ps.: Esse projeto está configurado para ser utilizado com MySQL, a sua configuração está explicada no Aplicattion Properties. E para funcionar a aplicação é necessário apenas o nome e CEP para cadastrar alguém em um futuro teste.
+
 #
 
  Feito por: Luiz Gustavo Santos Vieira  
