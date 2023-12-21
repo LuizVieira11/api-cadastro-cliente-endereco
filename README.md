@@ -1,4 +1,4 @@
-API de cadastro de clientes / endereços
+# API de cadastro de clientes / endereços
 
 Essa é uma API para cadastrar endereço de clientes apenas com o CEP, foi feita em conjunto com a escola Digital Innovation One (DIO), durante o Bootcamp Java com Cloud AWS.  
 Esse projeto foi feito utilizando a API ViaCEP e com a ajuda do Json Schema para a criação do código, tudo está documentado via JavaDoc dentro do mesmo.  
